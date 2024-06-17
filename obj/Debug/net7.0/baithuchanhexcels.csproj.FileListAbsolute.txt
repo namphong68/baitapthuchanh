@@ -282,3 +282,14 @@ D:\baithuchanh\baithuchanhexcels\bin\Debug\net7.0\runtimes\win-x64\native\e_sqli
 D:\baithuchanh\baithuchanhexcels\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\baithuchanh\baithuchanhexcels\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\baithuchanh\baithuchanhexcels\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.dll
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\refint\baithuchanhexcels.dll
+C:\Users\ADMIN\Desktop\bán tài liệu\phat trien phan mem quan ly\baithuchanh\baithuchanhexcels\obj\Debug\net7.0\baithuchanhexcels.pdb

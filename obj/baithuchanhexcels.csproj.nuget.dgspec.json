@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\bán tài liệu\\phat trien phan mem quan ly\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj": {}
   },
   "projects": {
-    "D:\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\bán tài liệu\\phat trien phan mem quan ly\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\bán tài liệu\\phat trien phan mem quan ly\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj",
         "projectName": "baithuchanhexcels",
-        "projectPath": "D:\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\bán tài liệu\\phat trien phan mem quan ly\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\baithuchanh\\baithuchanhexcels\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\bán tài liệu\\phat trien phan mem quan ly\\baithuchanh\\baithuchanhexcels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

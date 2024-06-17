@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qrNG/4KBhfXaVtFsXPBVlGSrea65B07ytCUsJ9H0Jka2j4vjM+SSBmhf0VnYgH+Rl6k8+bBDusrCbVOYqTpfaQ==",
+  "dgSpecHash": "4DEpfuLeBs3A8GcKIqw42Bv6CVJpHnFvxOZxaHGxHscSd/arEXDSz2GFcdEw25S5dEJv3KS+KZhtepTpq0CCJw==",
   "success": true,
-  "projectFilePath": "D:\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\bán tài liệu\\phat trien phan mem quan ly\\baithuchanh\\baithuchanhexcels\\baithuchanhexcels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\6.2.2\\epplus.6.2.2.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
